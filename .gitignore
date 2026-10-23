@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local config (may paths/secrets)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.DS_Store
+
+# APK / AAB outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Signing keys (WAG i-commit!)
+*.jks
+*.keystore
+keystore.properties
+
+# Logs / captures
+*.log
+captures/
+.externalNativeBuild/
+.cxx/
+

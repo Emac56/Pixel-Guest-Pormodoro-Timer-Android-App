@@ -1,0 +1,2 @@
+Ilagay dito ang file na PressStart2P-Regular.ttf (Google Fonts: "Press Start 2P", libre, OFL license).
+Dapat eksaktong "PressStart2P-Regular.ttf" ang pangalan. Kung wala ito, gagamit ang app ng monospace font.

@@ -1,0 +1,8 @@
+<resources>
+    <!-- Full-screen dark pixel theme (no action bar). -->
+    <style name="Theme.PixelGuestPormodoroTimer" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/pq_navy</item>
+        <item name="android:statusBarColor">@color/pq_navy</item>
+        <item name="android:navigationBarColor">@color/pq_navy</item>
+    </style>
+</resources>
